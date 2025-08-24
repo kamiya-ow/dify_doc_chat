@@ -18,6 +18,7 @@ cp .env.example .env
 - `DIFY_API_URL`: DifyのAPIのURL（デフォルト: `https://api.dify.ai/v1`）
 - `DIFY_API_KEY`: DifyのAPIキー
 - `DIFY_APP_TOKEN`: DifyアプリのAPIトークン
+- `DIFY_APP_PASS`: Difyアプリのパスワード（チャットフロー内のinputsで使用）
 
 ## 使い方
 
